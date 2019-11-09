@@ -1,21 +1,21 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
-/dist
-/tmp
-/out-tsc
+/angularCarousel/dist
+/angularCarousel/tmp
+/angularCarousel/out-tsc
 # Only exists if Bazel was run
-/bazel-out
+/angularCarousel/bazel-out
 
 # dependencies
-/node_modules
+/angularCarousel/node_modules
 
 # profiling files
-chrome-profiler-events.json
-speed-measure-plugin.json
+/angularCarousel/chrome-profiler-events.json
+/angularCarousel/speed-measure-plugin.json
 
 # IDEs and editors
-/.idea
+/angularCarousel/.idea
 .project
 .classpath
 .c9/
